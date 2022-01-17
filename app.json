@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/564f5ebbd100278261a03.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/S780821/Rockerz_Musicplayer",
+    "repository": "https://github.com/Nikitaroy31/Rockerz_Musicplayer",
     "stack": "container",
     "env": {
         "API_ID": {
